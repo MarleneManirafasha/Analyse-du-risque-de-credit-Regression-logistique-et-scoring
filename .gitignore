@@ -1,0 +1,8 @@
+# Eviter d'envoyer des fichiers temporaires
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Eviter d'envoyer des données sensibles
+*.csv
+*.xlsx
