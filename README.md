@@ -72,7 +72,7 @@ La régression logistique est hautement interprétable, ce qui en fait un choix 
 
 ### 4. Les résultats principaux
 
-- Le modèle présente une bonne aptitude discriminante (AUC supérieure à 0.75).
+- Le modèle présente une bonne aptitude discriminante (AUC supérieure à 0.65).
 - Le taux de défaut augmente régulièrement d’un décile à l’autre, confirmant la cohérence du score.
 - Les variables les plus déterminantes sont le taux d’intérêt, la durée du prêt, les enquêtes récentes, le revenu annuel et le grade.
 - Les déciles 9 et 10 concentrent la majorité des emprunteurs à haut risque.
