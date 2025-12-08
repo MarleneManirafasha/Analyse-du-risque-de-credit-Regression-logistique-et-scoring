@@ -86,7 +86,7 @@ La régression logistique est hautement interprétable, ce qui en fait un choix 
 
 **a. Performance globale**
 
-- AUC = 0.66. Le modèle discrimine correctement les bons et les mauvais payeurs.
+- AUC = 0.620. Le modèle discrimine correctement les bons et les mauvais payeurs.
 
 - Le modèle classe bien les emprunteurs : Le taux de défaut augmente clairement du décile 1 au décile 10.
 
